@@ -4,8 +4,6 @@
 
 Aspiring Data Scientist & AI/ML Engineer 🤖📊 | Lifelong Learner 📚
 
-<img src="[your-meme-image.jpg](https://raw.githubusercontent.com/xiaoyujes/xiaoyujes/main/9c56453ee8498d18f92b44ba227cda7415a870260645bc986eae9a066bf7f5ee.jpeg)" width="450" alt="data science meme">
-
 ---
 
 ## 🔧 Languages I Use
