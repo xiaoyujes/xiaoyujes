@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Jeslyn
 
-Current third-year data science major with a minor in accounting at the University of California, Davis 🐮
+📍 UC Davis 🐮 · Data Science · Accounting minor
 
 Aspiring Data Scientist & AI/ML Engineer 🤖📊 | Lifelong Learner 📚
 
@@ -37,8 +37,15 @@ Aspiring Data Scientist & AI/ML Engineer 🤖📊 | Lifelong Learner 📚
 
 ## 🚀 My Goal
 
-
 **Aspiring Data Scientist & AI/ML Engineer** — leveraging Python, PyTorch, and data tools to build models that matter and solve real-world problems.
+
+---
+
+## 🎉 Fun Facts
+
+- 🚲 Bike capital of the world means my legs are stronger than my models.
+- 🎲 My favorite distribution? The one that finally converges.
+- 🍵 My debugging ritual: matcha → stare at screen → realize it was a typo.
 
 ---
 
