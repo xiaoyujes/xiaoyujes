@@ -1,6 +1,7 @@
 ## 👋 Hi! I'm Jeslyn
 
-📍 UC Davis 🐮 · Data Science · Accounting minor
+📍 UCLA (Incoming) 🐻 · M.S. of Engoneering (Specialization in Data Science Engineering)
+🎓 UC Davis Alumni (Sep 2023 - Jun 2026) 🐮 · B.S. Data Science · Accounting minor
 
 Aspiring Data Scientist & AI/ML Engineer 🤖📊 | Lifelong Learner 📚
 
